@@ -114,3 +114,17 @@
     height: 55px;
     color: #FFFFFF;
 }
+
+.hero-title {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 112px;
+    color: #FFFFFF;
+}
+
+.hero-title span {
+    font-size: 112px;
+    background: -webkit-linear-gradient(0, #FE6783, #FEBF84);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
